@@ -7,6 +7,7 @@ def my_select(collection)
    else 
      collection2
    end 
+   i+=1 
  end
 collection2 
 end
